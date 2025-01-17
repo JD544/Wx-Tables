@@ -1,5 +1,7 @@
 # WX Tables Plugin
 
+![image](https://github.com/user-attachments/assets/2250de0d-b7bc-459c-bab1-1b777f70610f)
+
 A powerful and flexible table management plugin for WX Eclipse website builder that allows users to create and manage dynamic tables without writing code.
 
 ## Installation
